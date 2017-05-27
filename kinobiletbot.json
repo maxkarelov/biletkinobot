@@ -1,0 +1,191 @@
+[
+    {
+        "Чужой. Завет": [
+            {
+                "image_link": "http://saratovout.ru/event/00/00/00/05/70/150x100.jpg",
+                "option": "",
+                "sessions": [
+                    {
+                        "hall": "red",
+                        "price": "110",
+                        "time": "9:00",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=9:00&g=1"
+                    },
+                    {
+                        "hall": "green",
+                        "price": "130",
+                        "time": "11:05",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=11:05&g=1"
+                    },
+                    {
+                        "hall": "green",
+                        "price": "170",
+                        "time": "13:25",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=13:25&g=1"
+                    },
+                    {
+                        "hall": "green",
+                        "price": "200",
+                        "time": "17:50",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=17:50&g=1"
+                    },
+                    {
+                        "hall": "green",
+                        "price": "200",
+                        "time": "20:10",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=20:10&g=1"
+                    },
+                    {
+                        "hall": "blue",
+                        "price": "170",
+                        "time": "23:00",
+                        "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27&t=23:00&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=chuzhoj-zavet&d=2017-05-27"
+            }
+        ]
+    },
+    {
+        "Меч короля Артура": [
+            {
+                "image_link": "http://saratovout.ru/event/00/00/00/05/69/150x100.jpg",
+                "option": "2D",
+                "sessions": [
+                    {
+                        "hall": "blue",
+                        "price": "170",
+                        "time": "13:05",
+                        "url": "http://pobedafilm.ru/card/?f=mech-korolya-artura&d=2017-05-27&t=13:05&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=mech-korolya-artura&d=2017-05-27"
+            },
+            {
+                "image_link": "http://saratovout.ru/event/00/00/00/05/69/150x100.jpg",
+                "option": "3D",
+                "sessions": [
+                    {
+                        "hall": "blue",
+                        "price": "190",
+                        "time": "10:40",
+                        "url": "http://pobedafilm.ru/card/?f=mech-korolya-artura-imx&d=2017-05-27&t=10:40&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=mech-korolya-artura-imx&d=2017-05-27"
+            }
+        ]
+    },
+    {
+        "Стражи Галактики. Часть вторая": [
+            {
+                "image_link": "http://saratovout.ru/event/00/00/00/05/65/150x100.jpg",
+                "option": "3D",
+                "sessions": [
+                    {
+                        "hall": "blue",
+                        "price": "170",
+                        "time": "8:00",
+                        "url": "http://pobedafilm.ru/card/?f=strazhi-galaktiki-chast-vtoraya-imx&d=2017-05-27&t=8:00&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=strazhi-galaktiki-chast-vtoraya-imx&d=2017-05-27"
+            }
+        ]
+    },
+    {
+        "Прочь": [
+            {
+                "image_link": "http://saratovout.ru/event/00/00/00/05/66/150x100.jpg",
+                "option": "",
+                "sessions": [
+                    {
+                        "hall": "green",
+                        "price": "180",
+                        "time": "15:45",
+                        "url": "http://pobedafilm.ru/card/?f=proch&d=2017-05-27&t=15:45&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=proch&d=2017-05-27"
+            }
+        ]
+    },
+    {
+        "Пираты Карибского моря: мертвецы не рассказывают сказки": [
+            {
+                "image_link": "https://goo.gl/DAZMZZ",
+                "option": "2D",
+                "sessions": [
+                    {
+                        "hall": "blue",
+                        "price": "180",
+                        "time": "15:30",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki&d=2017-05-27&t=15:30&g=1"
+                    },
+                    {
+                        "hall": "blue",
+                        "price": "200",
+                        "time": "18:00",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki&d=2017-05-27&t=18:00&g=1"
+                    },
+                    {
+                        "hall": "blue",
+                        "price": "200",
+                        "time": "20:30",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki&d=2017-05-27&t=20:30&g=1"
+                    },
+                    {
+                        "hall": "red",
+                        "price": "200",
+                        "time": "21:40",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki&d=2017-05-27&t=21:40&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki&d=2017-05-27"
+            },
+            {
+                "image_link": "https://goo.gl/DAZMZZ",
+                "option": "3D",
+                "sessions": [
+                    {
+                        "hall": "green",
+                        "price": "170",
+                        "time": "8:35",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=8:35&g=1"
+                    },
+                    {
+                        "hall": "red",
+                        "price": "190",
+                        "time": "11:20",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=11:20&g=1"
+                    },
+                    {
+                        "hall": "red",
+                        "price": "240",
+                        "time": "13:55",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=13:55&g=1"
+                    },
+                    {
+                        "hall": "red",
+                        "price": "260",
+                        "time": "16:30",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=16:30&g=1"
+                    },
+                    {
+                        "hall": "red",
+                        "price": "290",
+                        "time": "19:05",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=19:05&g=1"
+                    },
+                    {
+                        "hall": "green",
+                        "price": "290",
+                        "time": "22:30",
+                        "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27&t=22:30&g=1"
+                    }
+                ],
+                "url": "http://pobedafilm.ru/card/?f=piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki-imx&d=2017-05-27"
+            }
+        ]
+    }
+]
